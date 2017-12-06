@@ -79,7 +79,6 @@ input[type="button"] {
     border: 1px solid #303030;
     background-color: #404040;
     font-size: 30px;
-    font-family: Vdj;
 }
 
 .text {
@@ -193,7 +192,6 @@ input[type="button"] {
     color: #DEDEDE;
     text-align: center;
     font-size: 24px;
-    font-family: Vdj;
 }
 
 #rec_bkg_x,
